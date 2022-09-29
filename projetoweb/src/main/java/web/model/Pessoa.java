@@ -87,9 +87,10 @@ public class Pessoa {
 		this.email = email;
 	}
 
+	/*
 	@NotNull
 	@OneToOne
 	private Usuario usuario_id;
-
+	*/
 
 }
